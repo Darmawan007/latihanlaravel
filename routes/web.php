@@ -19,6 +19,8 @@ use App\Models\ModelKoprasi;
 |
 */
 
+// Hallo kamal
+
 Route::get('/', [HomeController::class, 'index']);
 
 Auth::routes();
