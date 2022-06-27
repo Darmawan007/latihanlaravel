@@ -19,7 +19,7 @@ use App\Models\ModelKoprasi;
 |
 */
 
-// Hallo kamal
+// Hallo ramdan
 
 Route::get('/', [HomeController::class, 'index']);
 
