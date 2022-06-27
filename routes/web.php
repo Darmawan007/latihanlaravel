@@ -19,7 +19,7 @@ use App\Models\ModelKoprasi;
 |
 */
 
-// Hallo ramdan
+// Hallo ramdan edit
 
 Route::get('/', [HomeController::class, 'index']);
 
